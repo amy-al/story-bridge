@@ -105,3 +105,15 @@ a {
     color-scheme: dark;
   }
 }
+
+h1 {
+  color: var(--Black, #182F1F);
+  
+  /* Header 1 */
+  font-family: Outfit;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  color: red;
+}
